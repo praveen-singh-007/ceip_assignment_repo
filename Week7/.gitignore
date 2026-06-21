@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# generated index artifacts
+vector_index/
+*.faiss
+store.pkl
+_uploaded_*
+
+# OS
+.DS_Store
