@@ -10,7 +10,7 @@ snippets for Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Official Submission UI: Streamlit
 
-The internship/company-facing app is the Streamlit application:
+The Streamlit application:
 
 ```text
 backend/streamlit_app.py
