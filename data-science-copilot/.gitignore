@@ -1,0 +1,20 @@
+# Backend (Python)
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+backend/.env
+backend/outputs/*
+!backend/outputs/.gitkeep
+backend/rag_index/
+*.faiss
+*.pkl
+.streamlit/secrets.toml
+
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/next-env.d.ts
+frontend/*.tsbuildinfo
